@@ -1,15 +1,6 @@
 ### Hi there 👋
 [![Beix's GitHub stats](https://github-stats-extended.vercel.app/api?username=beix)](https://github.com/stats-organization/github-stats-extended)
 
-<a href="https://github-stats-extended.vercel.app/api?username=beix">
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api?username=beix&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=beix&theme=light_github" />
-  </picture>
-</a>
 <a href="https://github-stats-extended.vercel.app/api/top-langs?username=beix&layout=compact&langs_count=8&card_width=320">
   <picture>
     <source
