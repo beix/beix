@@ -1,11 +1,11 @@
 ### Hi there 👋
 [![Beix's GitHub stats](https://github-stats-extended.vercel.app/api?username=beix)](https://github.com/stats-organization/github-stats-extended)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=beix&hide=prs&count_private=true&show_icons=true&theme=material-palenight" alt="BNDong github stats" width="480" height="170" />
+<a href="#">
+  <img align="center" src="[https://github-stats-extended.vercel.app/api?username=beix&hide=prs&count_private=true&show_icons=true&theme=material-palenight" alt="BNDong github stats" width="480" height="170" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beix&layout=compact&theme=material-palenight" alt="Top Langs" height="168" />
+<a href="#">
+  <img align="center" src="https://github-stats-extended.vercel.app/api?/top-langs/?username=beix&layout=compact&theme=material-palenight" alt="Top Langs" height="168" />
 </a>
 
 #### 访客 自（2023/1/9）
